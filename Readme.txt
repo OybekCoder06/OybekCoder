@@ -1,7 +1,7 @@
 Hi I'm OybekCoder!
 
 Thanks for you download my project!
-Thank you every one
+Thanks every one!
 
 My Telegram chat: https://t.me/OybekCoder
 My Instagram chat: https://instagram.com/__oybek.coder__
