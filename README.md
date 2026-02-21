@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/OybekCoder.png" alt="Your Image Badge" />
+    <a href="https://tryhackme.com/p/OybekCoder">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/OybekCoder.png" />
+  </a>
 </p>
 
 # 💫 About Me
